@@ -14,7 +14,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-                .font(.largeTitle).colorScheme(<#T##colorScheme: ColorScheme##ColorScheme#>)
         }
         .padding()
     }
